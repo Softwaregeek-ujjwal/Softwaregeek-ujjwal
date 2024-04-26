@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Softwaregeek-ujjwal
-- 👀 A software geek learning and working to enhance my skills by progressively adding technical knowledge.
+- 👀 A software geek learning and working to enhance my skills by 
+      progressively adding technical knowledge.
 - 🌱 I’m currently learning **DSA, C++ ,Java**
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
